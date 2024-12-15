@@ -1,5 +1,7 @@
 package com.example.CultBot.service;
 
+import com.example.CultBot.entity.User;
+import com.example.CultBot.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
